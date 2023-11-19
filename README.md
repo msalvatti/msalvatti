@@ -2,11 +2,11 @@
 
 With over two decades of experience in the fields of Software Engineering, I bring a wealth of knowledge and expertise to the table. My career has spanned across various industries, from steel and animal feed to textile, retail, financial markets, services, and technology.
 
-I am a seasoned full stack engineer, proficient in a wide range of technologies, including Javascript/Typescript, Node.js, ReactJS, GraphQL, Jest, NoSQL, SQL, and web3. My skills extend from crafting backend architecture to designing intuitive and user-friendly UI experiences.
+I am a seasoned full stack engineer, proficient in a wide range of technologies. My skills extend from crafting backend architecture to designing intuitive and user-friendly UI experiences.
 
-I have a strong foundation in Node.js, ExpressJS, GraphQL, ReactJS, ChakraUI, and SaaS Multi-Tenant, as well as experience working with RESTful APIs, WebSockets, and Webhooks.
+I have a strong foundation in Node.js, ExpressJS, NestJS, GraphQL, ReactJS, ChakraUI, Solidity, HardHat, Mongodb, MySQL, Redis as well as experience working with Multi-Tenant SaaS, RESTful APIs, WebSockets and Webhooks.
 
-My track record includes collaborating with reputable companies such as Left Hook Inc, Ecotrak, Pixida and 908 Devices, where I've actively contributed to web software development, specializing in SaaS Multi-Tenant technology.
+My track record includes collaborating with reputable companies where I've actively contributed to web software development, specializing in SaaS Multi-Tenant technology.
 
 I have a consistent commitment to professional growth, as demonstrated by a wide range of specialized courses, including EVM Solidity/Smart Contracts, Node.js and MongoDB, React Native, TypeScript.
 
