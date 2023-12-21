@@ -4,7 +4,7 @@ With over two decades of experience in the fields of Software Engineering, I bri
 
 I am a seasoned full stack engineer, proficient in a wide range of technologies. My skills extend from crafting backend architecture to designing intuitive and user-friendly UI experiences.
 
-I have a strong foundation in Node.js, ExpressJS, NestJS, GraphQL, ReactJS, ChakraUI, Solidity, HardHat, Mongodb, MySQL, Redis as well as experience working with Multi-Tenant SaaS, RESTful APIs, WebSockets and Webhooks.
+I have a strong foundation in Node.js, ExpressJS, NestJS, GraphQL, ReactJS, ChakraUI, Solidity, Blockchain, Mongodb, MySQL, Redis as well as experience working with Multi-Tenant SaaS, RESTful APIs, WebSockets and Webhooks.
 
 My track record includes collaborating with reputable companies where I've actively contributed to web software development, specializing in SaaS Multi-Tenant technology.
 
