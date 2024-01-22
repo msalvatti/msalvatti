@@ -2,9 +2,9 @@
 
 With over two decades of experience in the fields of Software Engineering, I bring a wealth of knowledge and expertise to the table. My career has spanned across various industries, from steel and animal feed to textile, retail, financial markets, services, and technology.
 
-I am a seasoned full stack engineer, proficient in a wide range of technologies. My skills extend from crafting backend architecture to designing intuitive and user-friendly UI experiences.
+I am a seasoned full-stack engineer, proficient in a wide range of technologies. My skills extend from crafting backend architecture to designing intuitive and user-friendly UI experiences, including the development of smart contracts with Solidity for blockchain applications.
 
-I have a strong foundation in Node.js, ExpressJS, NestJS, GraphQL, ReactJS, ChakraUI, Solidity, Blockchain, Mongodb, MySQL, Redis as well as experience working with Multi-Tenant SaaS, RESTful APIs, WebSockets and Webhooks.
+I have a strong foundation in Node.js, ExpressJS, NestJS, GraphQL, ReactJS, NextJS, ChakraUI, Mongodb, MySQL, Redis, Solidity, and Blockchain as well as experience working with Multi-Tenant SaaS, RESTful APIs, WebSockets and Webhooks.
 
 My track record includes collaborating with reputable companies where I've actively contributed to web software development, specializing in SaaS Multi-Tenant technology.
 
