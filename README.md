@@ -17,7 +17,7 @@ Today I build <b>AI/LLM systems in production</b>: multi-provider LLM gateways w
 <h2>Highlights 🚀</h2>
 
 <ul>
-  <li><b>Sole owner of a production Python/FastAPI AI platform</b> (~51k lines, 70 API routes, ~19 background workers, 15 integrations): shipped 793 commits across 148 PRs in ~3.5 months focused on stability, rate limits and billing correctness.</li>
+  <li><b>Sole owner of a production Python/FastAPI AI platform</b> (70 API routes, ~19 background workers, 15 external integrations), taken over from a single-developer MVP and hardened for stability, rate limits and billing correctness.</li>
   <li><b>Multi-provider LLM gateway</b> serving 32 AI routes across Anthropic and OpenAI, with per-route model and cost tiers, prompt caching, token accounting, outage alerts and automatic recovery; the production vendor switches by configuration, with no code changes.</li>
   <li><b>Human-in-the-loop AI drafting</b> with multi-step pipelines (classify, retrieve, generate), pgvector retrieval, LLM-as-judge guardrails, bounded self-correction and prompt-injection defenses; the system learns versioned prompt rules from reviewer edits.</li>
   <li><b>AI-native SDLC with strict quality gates</b>: 3,869 automated tests, golden-set and LLM-judge evals, written review standards for AI-generated code, mandatory Claude + Codex review before every push and deploys with health checks and automatic rollback.</li>
