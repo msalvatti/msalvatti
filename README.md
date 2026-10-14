@@ -135,4 +135,4 @@ Today I build <b>AI/LLM systems in production</b>: multi-provider LLM gateways w
 
 <h2>Let's connect 🤝</h2>
 
-Fluent in English, native in Portuguese and intermediate in Spanish, used to daily standups and async collaboration in distributed, remote-first teams. Let's talk on <a href="https://www.linkedin.com/in/maximiliano-salvatti">LinkedIn</a>.
+Advanced in English, native in Portuguese and intermediate in Spanish, used to daily standups and async collaboration in distributed, remote-first teams. Let's talk on <a href="https://www.linkedin.com/in/maximiliano-salvatti">LinkedIn</a>.
